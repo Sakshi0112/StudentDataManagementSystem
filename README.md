@@ -12,7 +12,7 @@ Packages in Java
 -
 Bean Classes
 -
-Enummeration in Java
+Enumeration in Java
 -
 Getter and Setters
 -
